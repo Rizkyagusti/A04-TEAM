@@ -609,7 +609,7 @@ body {
 
 .image-top {
     margin:0 auto;
-    height:200px;
+    height:100px;
     width:100%;
     text-align: center;
     padding:100px 0;
@@ -617,6 +617,5 @@ body {
 
 
 .image-top img {
-    margin:100px 100px
-    
+    margin:100px 100px;
 }
