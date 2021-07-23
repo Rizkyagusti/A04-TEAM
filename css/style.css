@@ -15,6 +15,9 @@ body {
     position:relative;
 }
 
+.main {
+    background-color:#526771;
+}
 
 .header {
     background-color:rgb(0, 0, 0,0.8);
