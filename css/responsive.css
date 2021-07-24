@@ -104,4 +104,12 @@
         letter-spacing: 5px;
     }
     
+    .img-top {
+        margin-bottom:50px;
+    }
+    
+    #body-two {
+        height:2000px;
+    }
+    
 }
